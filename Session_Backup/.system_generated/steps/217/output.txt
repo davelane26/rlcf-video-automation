@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Generated EDL: C:\Users\djtwo\Downloads\RLCF_Sunday_No_Singing.edl
+Generated XML: C:\Users\djtwo\Downloads\RLCF_Sunday_No_Singing.xml
+

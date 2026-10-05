@@ -1,0 +1,14 @@
+Task: 56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-522
+Status: RUNNING
+Log: C:\Users\djtwo\.gemini\antigravity\brain\56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8\.system_generated\tasks\task-522.log
+Log output:
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+Last progress: 5s ago

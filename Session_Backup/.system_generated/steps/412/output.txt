@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+GMT audio RMS dB: -119.810776
+

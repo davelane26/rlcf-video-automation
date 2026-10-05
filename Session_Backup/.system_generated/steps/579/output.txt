@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+Name                            LastWriteTime       
+----                            -------------       
+Antigravity_Skill               9/15/2026 8:43:41 PM
+Resolve_Scripts                 9/15/2026 8:43:41 PM
+Create_July19_Songs_Only.lua    9/29/2026 5:53:06 PM
+Install_On_New_PC.bat           9/15/2026 8:43:43 PM
+README.md                       9/15/2026 8:48:47 PM
+Section_July19_Praise_Songs.lua 9/29/2026 5:53:02 PM
+
+
+

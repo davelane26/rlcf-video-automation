@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+ProductVersion   FileVersion      FileName                                                                             
+--------------   -----------      --------                                                                             
+19.0.0.69        19.0.0.69        C:\Program Files\Blackmagic Design\DaVinci Resolve\Resolve.exe                       
+
+
+

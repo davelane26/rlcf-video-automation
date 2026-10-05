@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\Users\djtwo\.gemini
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         9/15/2026   8:41 PM                antigravity                                                          
+d-----         9/11/2026   7:06 PM                antigravity-cli                                                      
+d-----         9/10/2026   7:01 PM                antigravity-ide                                                      
+d-----         9/10/2026   7:22 PM                bin                                                                  
+d-----         9/11/2026   7:07 PM                config                                                               
+d-----          9/9/2026   4:43 PM                history                                                              
+d-----          9/9/2026   4:43 PM                tmp                                                                  
+-a----          9/9/2026   4:43 PM             47 google_accounts.json                                                 
+-a----          9/9/2026   4:43 PM             36 installation_id                                                      
+-a----          9/9/2026   4:43 PM           1557 oauth_creds.json                                                     
+-a----          9/9/2026   4:43 PM            112 projects.json                                                        
+
+
+

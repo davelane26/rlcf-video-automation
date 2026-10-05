@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                             Length LastWriteTime       
+--------                                                                             ------ -------------       
+C:\Users\djtwo\Videos\Mens Conference 2026\20260417-FirstStepsToBeAManOfGod.mp4 11449797562 4/21/2026 7:21:44 PM
+
+
+

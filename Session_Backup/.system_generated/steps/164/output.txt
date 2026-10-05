@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+[00:44:39 -> 00:44:41] Set your mind on things above.
+[00:44:41 -> 00:44:42] Not on the things of earth.
+[00:44:42 -> 00:44:43] Colossians 3.2.
+[00:44:43 -> 00:44:47] Set your mind on the things of earth.
+[00:44:47 -> 00:44:49] Not on earth.
+[00:44:49 -> 00:44:51] Set your things.
+[00:44:51 -> 00:44:53] Set your mind on the things above.
+[00:44:53 -> 00:44:54] Not on the things of earth.
+[00:44:54 -> 00:44:59] Colossians 3.2.
+[00:44:59 -> 00:45:01] Set your mind on things above.
+

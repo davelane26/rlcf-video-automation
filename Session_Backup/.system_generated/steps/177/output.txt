@@ -1,0 +1,8 @@
+
+The command exited with code 1.
+Output:
+  File "<string>", line 11
+    print(f'[{m:02d}:{s_rem:02d}] {s.get(" text\,
+                                         ^
+SyntaxError: unterminated string literal (detected at line 11)
+

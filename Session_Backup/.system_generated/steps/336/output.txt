@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\Users\djtwo\.gemini\config
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         9/11/2026   7:05 PM                projects                                                             
+d-----         9/11/2026   6:51 PM                sidecars                                                             
+-a----          9/9/2026   4:45 PM              0 .migrated                                                            
+-a----         9/11/2026   7:07 PM           4698 config.json                                                          
+-a----          9/9/2026   4:45 PM              0 mcp_config.json                                                      
+
+
+

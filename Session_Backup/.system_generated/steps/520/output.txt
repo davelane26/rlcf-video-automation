@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+[20:30 -> 20:33] You say, your brother, your sister, your child?
+[20:35 -> 20:39] Look up to heaven, lift up your hands, lift up your heart to heaven, say, Lord, make this soul.
+[20:39 -> 20:42] Fill my cup, I lift it up to you, he will.
+[20:44 -> 20:47] Go miss the outpouring in the spirit that he wants to give to you.
+[20:48 -> 21:20] Burn fire of thy grace and shall the soul fill.
+

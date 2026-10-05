@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+codec_name=h264
+codec_type=video
+width=1280
+height=720
+r_frame_rate=30/1
+codec_name=aac
+codec_type=audio
+r_frame_rate=0/0
+duration=7125.878971
+size=870818925
+bit_rate=977640
+

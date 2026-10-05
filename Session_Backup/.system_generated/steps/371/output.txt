@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Initialized empty Git repository in C:/Users/djtwo/OneDrive/RLCF-Video-Automation-Backup/.git/
+warning: in the working copy of 'Antigravity_Skill/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Install_On_New_PC.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Resolve_Scripts/Create_No_Singing_Timeline.lua', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Resolve_Scripts/Create_Singing_Timeline.lua', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Resolve_Scripts/Section_Each_Song_Timeline.lua', LF will be replaced by CRLF the next time Git touches it
+[main (root-commit) 7620d2b] Initial commit: RLCF DaVinci Resolve video editing automation and skill
+ 6 files changed, 406 insertions(+)
+ create mode 100644 Antigravity_Skill/SKILL.md
+ create mode 100644 Install_On_New_PC.bat
+ create mode 100644 README.md
+ create mode 100644 Resolve_Scripts/Create_No_Singing_Timeline.lua
+ create mode 100644 Resolve_Scripts/Create_Singing_Timeline.lua
+ create mode 100644 Resolve_Scripts/Section_Each_Song_Timeline.lua
+https://github.com/davelane26/rlcf-video-automation
+To https://github.com/davelane26/rlcf-video-automation.git
+ * [new branch]      HEAD -> main
+branch 'main' set up to track 'origin/main'.
+

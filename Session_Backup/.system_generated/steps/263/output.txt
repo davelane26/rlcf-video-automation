@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Updated EDL: C:\Users\djtwo\Downloads\RLCF_Sunday_No_Singing.edl
+Updated XML: C:\Users\djtwo\Downloads\RLCF_Sunday_No_Singing.xml
+XML validation OK!
+

@@ -1,0 +1,19 @@
+Loading faster-whisper on CUDA (RTX 3050 Ti)...
+Model loaded in 1.57s
+Starting transcription of C:\Users\djtwo\.gemini\antigravity\scratch\audio_16k.wav...
+Traceback (most recent call last):
+  File "C:\Users\djtwo\.gemini\antigravity\brain\56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8\scratch\run_whisper.py", line 55, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\djtwo\.gemini\antigravity\brain\56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8\scratch\run_whisper.py", line 30, in main
+    for seg in segments_generator:
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djtwo\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\faster_whisper\transcribe.py", line 1851, in restore_speech_timestamps
+    for segment in segments:
+                   ^^^^^^^^
+  File "C:\Users\djtwo\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\faster_whisper\transcribe.py", line 1190, in generate_segments
+    encoder_output = self.encode(segment)
+  File "C:\Users\djtwo\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\faster_whisper\transcribe.py", line 1400, in encode
+    return self.model.encode(features, to_cpu=to_cpu)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Library cublas64_12.dll is not found or cannot be loaded

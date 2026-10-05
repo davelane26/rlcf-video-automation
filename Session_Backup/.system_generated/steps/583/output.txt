@@ -1,0 +1,28 @@
+
+The command exited with code 0.
+Output:
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+FullName                                                         
+--------                                                         
+C:\Users\djtwo\.gemini\antigravity\scratch\audio_16k.wav         
+C:\Users\djtwo\.gemini\antigravity\scratch\audio_ending.wav      
+C:\Users\djtwo\.gemini\antigravity\scratch\aug9_audio.wav        
+C:\Users\djtwo\.gemini\antigravity\scratch\aug9_transcript.txt   
+C:\Users\djtwo\.gemini\antigravity\scratch\gmt_audio.wav         
+C:\Users\djtwo\.gemini\antigravity\scratch\gmt_transcript.txt    
+C:\Users\djtwo\.gemini\antigravity\scratch\july19_16k.wav        
+C:\Users\djtwo\.gemini\antigravity\scratch\praise_aug23_16k.wav  
+C:\Users\djtwo\.gemini\antigravity\scratch\whisper_transcript.txt
+C:\Users\djtwo\.gemini\antigravity\scratch\whisper_worship.json  
+C:\Users\djtwo\.gemini\antigravity\scratch\whisper_worship.txt   
+
+
+

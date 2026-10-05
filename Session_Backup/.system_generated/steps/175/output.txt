@@ -1,0 +1,8 @@
+
+The command exited with code 1.
+Output:
+  File "<string>", line 12
+    print(f'[{h:02d}:{m:02d}:{sec:02d}] {s[" text\]}')
+                                           ^
+SyntaxError: unterminated string literal (detected at line 12)
+

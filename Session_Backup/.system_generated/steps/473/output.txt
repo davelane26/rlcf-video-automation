@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+FullName                                                                                                            Len
+                                                                                                                    gth
+--------                                                                                                            ---
+C:\Users\djtwo\Videos\Mens Conference 2026\20260417-FirstStepsToBeAManOfGod.mp4                                     562
+C:\Users\djtwo\Videos\0-02-01-c9351b3d0a318cfd824dd0d4253d5fb20cf075f7a4af9de0a92de8e92ef9c1c0_605c249b4232f405.mp4 924
+
+
+

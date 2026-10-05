@@ -1,0 +1,33 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\ProgramData\Blackmagic Design\DaVinci Resolve\Fusion\Scripts
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         1/26/2024  12:45 PM                Color                                                                
+d-----         1/26/2024  12:45 PM                Comp                                                                 
+d-----         1/26/2024  12:45 PM                Deliver                                                              
+d-----         1/26/2024  12:45 PM                Edit                                                                 
+d-----         1/26/2024  12:45 PM                Tool                                                                 
+d-----         1/26/2024  12:45 PM                Utility                                                              
+d-----          2/6/2024   7:13 PM                Views                                                                
+
+
+    Directory: C:\Users\djtwo\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         8/17/2026   7:31 PM                Color                                                                
+d-----         8/17/2026   7:31 PM                Comp                                                                 
+d-----         8/17/2026   7:31 PM                Deliver                                                              
+d-----         8/17/2026   7:31 PM                Edit                                                                 
+d-----         8/17/2026   7:31 PM                Tool                                                                 
+d-----         8/17/2026   7:31 PM                Utility                                                              
+
+
+

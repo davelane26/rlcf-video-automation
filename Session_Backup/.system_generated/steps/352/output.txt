@@ -1,0 +1,43 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\Users\djtwo\OneDrive
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         9/15/2026   8:43 PM                RLCF-Video-Automation-Backup                                         
+
+
+    Directory: C:\Users\djtwo\OneDrive\RLCF-Video-Automation-Backup
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         9/15/2026   8:43 PM                Resolve_Scripts                                                      
+d-----         9/15/2026   8:43 PM                Antigravity_Skill                                                    
+d-----         9/15/2026   8:43 PM                Antigravity_Skill                                                    
+d-----         9/15/2026   8:43 PM                Resolve_Scripts                                                      
+
+
+    Directory: C:\Users\djtwo\OneDrive\RLCF-Video-Automation-Backup\Antigravity_Skill
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----         9/15/2026   8:42 PM           3461 SKILL.md                                                             
+
+
+    Directory: C:\Users\djtwo\OneDrive\RLCF-Video-Automation-Backup\Resolve_Scripts
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----         9/15/2026   7:05 PM           3541 Create_No_Singing_Timeline.lua                                       
+-a----         9/15/2026   7:09 PM           2703 Create_Singing_Timeline.lua                                          
+-a----         9/15/2026   7:43 PM           3726 Section_Each_Song_Timeline.lua                                       
+
+
+

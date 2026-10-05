@@ -1,0 +1,39 @@
+
+The command exited with code 0.
+Output:
+ffmpeg version 4.2.1 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.1.1 (GCC) 20190807
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, matroska,webm, from 'C:\Users\djtwo\Downloads\2026-08-23 10-31-37 - Praise.mkv':
+  Metadata:
+    ENCODER         : Lavf61.1.100
+  Duration: 01:14:05.07, start: 0.000000, bitrate: 10132 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 1k tbn, 60 tbc
+    Metadata:
+      DURATION        : 01:14:05.066000000
+    Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp
+    Metadata:
+      title           : Track1
+      DURATION        : 01:14:04.949000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'C:\Users\djtwo\.gemini\antigravity\scratch\praise_aug23_16k.wav':
+  Metadata:
+    ISFT            : Lavf58.29.100
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+    Metadata:
+      title           : Track1
+      DURATION        : 01:14:04.949000000
+      encoder         : Lavc58.54.100 pcm_s16le
+size=    7168kB time=00:03:55.02 bitrate= 249.8kbits/s speed= 470x    size=   14336kB time=00:07:45.08 bitrate= 252.5kbits/s speed= 464x    size=   23296kB time=00:12:25.62 bitrate= 255.9kbits/s speed= 497x    size=   31488kB time=00:16:54.76 bitrate= 254.2kbits/s speed= 507x    size=   41728kB time=00:22:23.03 bitrate= 254.5kbits/s speed= 537x    size=   53504kB time=00:28:38.65 bitrate= 255.0kbits/s speed= 573x    size=   65280kB time=00:34:56.80 bitrate= 255.0kbits/s speed= 599x    size=   76800kB time=00:40:59.75 bitrate= 255.8kbits/s speed= 614x    size=   88832kB time=00:47:22.75 bitrate= 256.0kbits/s speed= 631x    size=   99840kB time=00:53:22.26 bitrate= 255.4kbits/s speed= 640x    size=  111360kB time=00:59:25.56 bitrate= 255.9kbits/s speed= 648x    size=  122112kB time=01:05:11.25 bitrate= 255.8kbits/s speed= 651x    size=  132864kB time=01:10:58.68 bitrate= 255.6kbits/s speed= 655x    size=  138905kB time=01:14:04.94 bitrate= 256.0kbits/s speed= 655x    
+video:0kB audio:138905kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000055%
+

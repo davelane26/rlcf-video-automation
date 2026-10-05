@@ -1,0 +1,62 @@
+
+The command exited with code 0.
+Output:
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+Total segments: 339
+[18:01 -> 18:03] Thank you, Lord, that you are searching,
+[18:03 -> 18:07] your eyes go to and fro across the face of the earth,
+[18:07 -> 18:10] across this room, and those listening online as well.
+[18:10 -> 18:13] Looking for those whose hearts are completely yours,
+[18:13 -> 18:14] who even during this time of press said,
+[18:14 -> 18:17] Lord, I want to be such a one who is hard as completely yours.
+[18:17 -> 18:21] I refuse to look behind at what it's been like in the past.
+[18:21 -> 18:25] I'm looking up to you, my example, Lord Jesus,
+[18:25 -> 18:27] and I'm looking forward to what's ahead,
+[18:27 -> 18:28] that you're a God of hope,
+[18:28 -> 18:29] you're a God who redeems,
+[18:29 -> 18:32] you're a God who brings beauty out of ashes.
+[18:32 -> 18:35] Thank you, so Lord, to those who is hard
+[18:35 -> 18:40] so completely yours, we believe you are looking for such
+[18:40 -> 18:43] that you might strongly support us.
+[18:43 -> 18:45] Maybe be ones who are strongly supported
+[18:45 -> 18:48] by the everlasting God.
+[18:48 -> 18:51] Thank you, Lord, we believe that that shall be soon.
+[18:51 -> 18:55] So Lord, we pray in faith, we pray in faith, thank you.
+[18:55 -> 18:58] We give you our ransom souls.
+[18:59 -> 19:01] You might possess it fully, thank you.
+[19:01 -> 19:02] Will you even hurt this prayer, Lord?
+[19:02 -> 19:05] Not just mine, but the prayer of every sincere heart
+[19:05 -> 19:08] that's cried out to you during this time in Jesus' name.
+[19:09 -> 19:10] Amen.
+[20:01 -> 20:18] Why do we lose our souls?
+[20:18 -> 20:33] Whether your sister, your child,
+[20:33 -> 20:37] lift up your hands, lift up your heart to you
+[20:37 -> 20:39] and say, Lord, make this soul.
+[20:39 -> 20:43] Fill my cup, I lift it up to you, he will.
+[20:43 -> 20:47] Go miss me out pouring a despair that he wants to give to you.
+[20:47 -> 24:53] Put fire off fire, by patience, the soul plays the same.
+[25:01 -> 25:36] We think about the treasure we seek in heaven.
+[25:36 -> 25:37] This is it.
+[25:37 -> 25:44] It's Christ Himself.
+[25:44 -> 25:48] If we really see in Christ for who he is, we'll seek nothing else here on this earth like
+[25:48 -> 25:50] we sing in that hymn.
+[25:50 -> 25:52] Turn your eyes upon Jesus.
+[25:52 -> 25:58] In fact, you're dear brothers and sisters and children, friends.
+[25:58 -> 26:02] Turn your eyes on Jesus alone again.
+[30:00 -> 30:11] inside the king I walk for their my heart has found its treasure. Christ is mine for
+[30:11 -> 30:21] us. You've got to get my heart keys for my arkies to Zion City. Where beside the
+[30:21 -> 30:32] key I walk for their my heart treasure has found its treasure. Christ is mine for
+[30:32 -> 31:10] us too though they lead or the cold dark mountains. Though they lead or the cold dark
+[31:10 -> 31:20] is more along by Stymote's mountains. More along by Stymote's mountains. More along by
+[31:20 -> 31:46] Stymote's mountains. We end. It's all these us that make the pathway go. We will come. We'll follow the
+[31:46 -> 32:38] steps of Jesus through the temple. Hold your Lord. Follow the above that days.
+[32:38 -> 33:28] The way and its sorrows they go up the slope of the hillside. On the hillside, there was
+[35:01 -> 35:08] We wear the steps of Jesus
+

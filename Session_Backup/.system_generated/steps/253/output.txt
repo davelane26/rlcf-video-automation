@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+[STREAM]
+r_frame_rate=30/1
+avg_frame_rate=30/1
+start_time=0.000000
+duration=7125.866667
+nb_frames=213776
+[/STREAM]
+

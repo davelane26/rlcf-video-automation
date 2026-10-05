@@ -1,0 +1,26 @@
+
+The command exited with code 0.
+Output:
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+
+    Directory: C:\Users\djtwo\OneDrive\RLCF-Video-Automation-Backup\Resolve_Scripts
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a---l         9/29/2026   5:53 PM           3186 Create_July19_Songs_Only.lua                                         
+-a---l         9/15/2026   7:05 PM           3541 Create_No_Singing_Timeline.lua                                       
+-a---l         9/15/2026   7:09 PM           2703 Create_Singing_Timeline.lua                                          
+-a---l         9/15/2026   7:43 PM           3726 Section_Each_Song_Timeline.lua                                       
+-a---l         9/29/2026   5:53 PM           3913 Section_July19_Praise_Songs.lua                                      
+
+
+

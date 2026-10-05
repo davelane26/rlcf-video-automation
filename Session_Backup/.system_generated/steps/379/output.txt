@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+
+Name                                                          Length LastWriteTime       
+----                                                          ------ -------------       
+GMT20260917-001708_Recording_1920x1200.mp4                 909169340 9/16/2026 9:12:41 PM
+GMT20260917-001708_Recording.m4a                            58006909 9/16/2026 9:11:54 PM
+RLCF_Sunday_No_Singing.xml                                     16348 9/15/2026 7:00:52 PM
+RLCF_Sunday_No_Singing.edl                                      1448 9/15/2026 7:00:52 PM
+RLCF Sunday Meeting Livestreaming - September 13, 2026.mp4 870818925 9/15/2026 6:32:38 PM
+Antigravity-x64.exe                                        148797976 9/11/2026 6:50:50 PM
+devotional-companion-qr-code.png                                 651 9/10/2026 9:28:42 PM
+Antigravity IDE.exe                                        227712776 9/10/2026 6:51:06 PM
+VSCodeUserSetup-x64-1.137.0.exe                            235072944 9/9/2026 4:34:07 PM 
+Inbox - Banner Health.pdf                                     171627 9/8/2026 6:04:30 PM 
+
+
+

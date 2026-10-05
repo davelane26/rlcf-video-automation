@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+
+
+FileVersionRaw     : 19.0.0.69
+ProductVersionRaw  : 19.0.0.69
+Comments           : 
+CompanyName        : Blackmagic Design Pty. Ltd.
+FileBuildPart      : 0
+FileDescription    : DaVinci Resolve
+FileMajorPart      : 19
+FileMinorPart      : 0
+FileName           : C:\Program Files\Blackmagic Design\DaVinci Resolve\Resolve.exe
+FilePrivatePart    : 69
+FileVersion        : 19.0.0.69
+InternalName       : Resolve.exe
+IsDebug            : False
+IsPatched          : False
+IsPrivateBuild     : False
+IsPreRelease       : False
+IsSpecialBuild     : False
+Language           : English (United States)
+LegalCopyright     : Copyright (C) 2024 Blackmagic Design Pty. Ltd.
+LegalTrademarks    : 
+OriginalFilename   : Resolve.exe
+PrivateBuild       : 
+ProductBuildPart   : 0
+ProductMajorPart   : 19
+ProductMinorPart   : 0
+ProductName        : DaVinci Resolve
+ProductPrivatePart : 69
+ProductVersion     : 19.0.0.69
+SpecialBuild       : 
+
+
+
+

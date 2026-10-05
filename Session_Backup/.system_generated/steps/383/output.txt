@@ -1,0 +1,28 @@
+
+The command exited with code 1.
+Output:
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+    segments, _ = model.transcribe(r'C:\Users\djtwo\Downloads\GMT20260917-001708_Recording.m4a', beam_size=1, language='en')
+                  ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djtwo\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\faster_whisper\transcribe.py", line 916, in transcribe
+    features = self.feature_extractor(audio, chunk_length=chunk_length)
+  File "C:\Users\djtwo\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\faster_whisper\feature_extractor.py", line 215, in __call__
+    stft = self.stft(
+           ~~~~~~~~~^
+        waveform,
+        ^^^^^^^^^
+    ...<3 lines>...
+        return_complex=True,
+        ^^^^^^^^^^^^^^^^^^^^
+    ).astype("complex64")
+    ^
+  File "C:\Users\djtwo\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\faster_whisper\feature_extractor.py", line 189, in stft
+    output = np.fft.rfft(input_array, n=n_fft, axis=-1, norm=norm)
+  File "C:\Users\djtwo\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\numpy\fft\_pocketfft.py", line 417, in rfft
+    output = _raw_fft(a, n, axis, True, True, norm, out=out)
+  File "C:\Users\djtwo\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\numpy\fft\_pocketfft.py", line 95, in _raw_fft
+    out = empty_like(a, shape=a.shape[:axis] + (n_out,) + a.shape[axis + 1:],
+                     dtype=out_dtype)
+numpy._core._exceptions._ArrayMemoryError: Unable to allocate 942. MiB for an array with shape (1, 614280, 201) and data type complex64
+

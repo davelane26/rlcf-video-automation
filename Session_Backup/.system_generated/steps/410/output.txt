@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Loading model...
+Transcribing GMT recording (first 10 mins)...
+Finished GMT transcription.
+

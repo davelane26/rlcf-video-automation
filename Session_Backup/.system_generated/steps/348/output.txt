@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\Users\djtwo\OneDrive
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d----l          6/3/2026   9:47 AM                76561199117746334 - backup sekiro                                    
+d----l         8/17/2026   9:02 AM                Apps                                                                 
+d----l          8/6/2026   4:56 PM                Sekiro - 3 endings                                                   
+
+
+

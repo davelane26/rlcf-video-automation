@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-15T18:48:25-06:00
+Prompt: Check ending completion
+Early Termination: 56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-189
+
+[2026-09-15T18:48:10-06:00] Still waiting. Remaining time: 15s
+[2026-09-15T18:48:11-06:00] Timer cancelled: early-termination condition (56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-189) met by a message from 56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-189.

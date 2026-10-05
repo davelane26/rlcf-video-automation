@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\Users\djtwo\Downloads
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----         7/14/2026   6:09 PM      642705766 20260712-RLCFPraiseLive.mp4                                          
+-a----         8/13/2026   7:09 PM      927360324 RLCF Sunday Meeting Livestreaming - August 9, 2026.mp4               
+-a----         9/15/2026   6:32 PM      870818925 RLCF Sunday Meeting Livestreaming - September 13, 2026.mp4           
+-a----          5/5/2026   7:03 PM     1345267260 RLCF Sunday School Presentations - May 3, 2026.mp4                   
+-a----          9/7/2026  10:33 AM           3712 rlcf-study-plan-local-setup.md                                       
+-a----         8/30/2026   6:15 PM          11104 rlcf-study-plan.zip                                                  
+-a----         4/21/2026   6:41 PM     3783302789 RLCFMC-Session1-2026-04-17 09-18-31.mkv                              
+-a----         4/23/2026   9:06 PM      938862906 YTDown.com_YouTube_RLCF-Praise-Live-at-Men-s-Conference-Apr_Media_m7-
+                                                  IWYoA2cc_001_1080p.mp4                                               
+-a----         4/23/2026  10:02 PM     2058839268 YTDown.com_YouTube_RLCF-Sunday-Meeting-Livestream-January-1_Media_NKH
+                                                  YFqYcJPM_001_1080p.mp4                                               
+
+
+

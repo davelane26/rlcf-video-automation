@@ -1,0 +1,29 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                                             Le
+                                                                                                                     ng
+                                                                                                                     th
+--------                                                                                                             --
+C:\Users\djtwo\Downloads\2026-08-23 10-31-37 - Praise.mkv                                                            06
+C:\Users\djtwo\Downloads\20260712-LittleIsMuchIfGodIsInIt.mp4                                                        46
+C:\Users\djtwo\Downloads\20260712-RLCFPraiseLive.mp4                                                                 66
+C:\Users\djtwo\Downloads\GMT20260816-010718_Recording_1280x720.mp4                                                   54
+C:\Users\djtwo\Downloads\GMT20260903-001505_Recording.m4a                                                            99
+C:\Users\djtwo\Downloads\GMT20260903-001505_Recording_1600x748.mp4                                                   19
+C:\Users\djtwo\Downloads\GMT20260917-001708_Recording.m4a                                                            09
+C:\Users\djtwo\Downloads\GMT20260917-001708_Recording_1920x1200.mp4                                                  40
+C:\Users\djtwo\Downloads\LIS2_clean.mp4                                                                              40
+C:\Users\djtwo\Downloads\RLCF Sunday Meeting Livestreaming - August 9, 2026.mp4                                      24
+C:\Users\djtwo\Downloads\RLCF Sunday Meeting Livestreaming - September 13, 2026.mp4                                  25
+C:\Users\djtwo\Downloads\RLCF Sunday School Presentations - May 3, 2026.mp4                                          60
+C:\Users\djtwo\Downloads\RLCFMC-Session1-2026-04-17 09-18-31.mkv                                                     89
+C:\Users\djtwo\Downloads\video_clean_v3 (1).mp4                                                                      21
+C:\Users\djtwo\Downloads\video_clean_v3.mp4                                                                          21
+C:\Users\djtwo\Downloads\video_profanity_muted_v2.mp4                                                                29
+C:\Users\djtwo\Downloads\YTDown.com_YouTube_RLCF-Praise-Live-at-Men-s-Conference-Apr_Media_m7-IWYoA2cc_001_1080p.mp4 06
+C:\Users\djtwo\Downloads\YTDown.com_YouTube_RLCF-Sunday-Meeting-Livestream-January-1_Media_NKHYFqYcJPM_001_1080p.mp4 68
+
+
+

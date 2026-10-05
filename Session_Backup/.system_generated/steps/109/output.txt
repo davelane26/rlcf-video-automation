@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+CPU model loaded in 1.6737549304962158
+

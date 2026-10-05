@@ -1,0 +1,8 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-15T18:43:18-06:00
+Prompt: Check on the GPU transcription status
+Early Termination: 56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-90
+
+[2026-09-15T18:42:28-06:00] Still waiting. Remaining time: 50s
+[2026-09-15T18:42:38-06:00] Still waiting. Remaining time: 40s
+[2026-09-15T18:42:42-06:00] Timer cancelled: early-termination condition (56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-90) met by a message from 56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-90.

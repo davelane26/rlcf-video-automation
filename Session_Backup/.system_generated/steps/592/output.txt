@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+warning: in the working copy of 'Create_July19_Songs_Only.lua', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Resolve_Scripts/Create_July19_Songs_Only.lua', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Resolve_Scripts/Section_July19_Praise_Songs.lua', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Section_July19_Praise_Songs.lua', LF will be replaced by CRLF the next time Git touches it
+[main bd89535] Add DaVinci Resolve scripts for July 19 Praise Live
+ 4 files changed, 396 insertions(+)
+ create mode 100644 Create_July19_Songs_Only.lua
+ create mode 100644 Resolve_Scripts/Create_July19_Songs_Only.lua
+ create mode 100644 Resolve_Scripts/Section_July19_Praise_Songs.lua
+ create mode 100644 Section_July19_Praise_Songs.lua
+To https://github.com/davelane26/rlcf-video-automation.git
+   7620d2b..bd89535  main -> main
+

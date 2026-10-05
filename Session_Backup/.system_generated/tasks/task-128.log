@@ -1,0 +1,10 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-15T18:44:44-06:00
+Prompt: Check transcription progress
+Early Termination: 56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-116
+
+[2026-09-15T18:44:09-06:00] Still waiting. Remaining time: 35s
+[2026-09-15T18:44:19-06:00] Still waiting. Remaining time: 25s
+[2026-09-15T18:44:29-06:00] Still waiting. Remaining time: 15s
+[2026-09-15T18:44:39-06:00] Still waiting. Remaining time: 5s
+[2026-09-15T18:44:44-06:00] Timer fired.

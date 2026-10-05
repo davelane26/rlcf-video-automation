@@ -1,0 +1,4 @@
+{
+  "summary": "Fix timecode extents in XML and EDL to 00:00:00:00 so DaVinci Resolve matches the media clip perfectly.",
+  "updatedAt": "2026-09-16T01:00:48.237457500Z"
+}

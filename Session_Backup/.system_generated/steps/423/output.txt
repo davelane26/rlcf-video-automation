@@ -1,0 +1,19 @@
+You have 2 background task(s) currently running:
+{
+  "taskId": "56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-400",
+  "toolName": "run_command",
+  "toolSummary": "Transcribe Aug 9 audio",
+  "description": "python \"C:\\Users\\djtwo\\.gemini\\antigravity\\brain\\56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8\\scratch\\check_aug9.py\"",
+  "startTime": "2026-09-18T14:03:47.130734500Z",
+  "stepIndex": 400,
+  "logUri": "file:///C:/Users/djtwo/.gemini/antigravity/brain/56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/.system_generated/tasks/task-400.log"
+}
+{
+  "taskId": "56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/task-414",
+  "toolName": "run_command",
+  "toolSummary": "Find audio start in GMT recording",
+  "description": "& \"C:\\Program Files\\Presenter\\resources\\ffmpeg\\ffmpeg.exe\" -i \"C:\\Users\\djtwo\\Downloads\\GMT20260917-001708_Recording_1920x1200.mp4\" -af silencedetect=noise=-50dB:d=5 -f null - 2>&1 | Select-String \"silence_\" | Select-Object -First 10",
+  "startTime": "2026-09-18T14:05:01.544547Z",
+  "stepIndex": 414,
+  "logUri": "file:///C:/Users/djtwo/.gemini/antigravity/brain/56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8/.system_generated/tasks/task-414.log"
+}

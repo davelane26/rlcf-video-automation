@@ -1,0 +1,13 @@
+
+The command exited with code 1.
+Output:
+Get-Content : Cannot find path 'C:\Users\djtwo\.gemini\antigravity\scratch\whisper_transcript.txt' because it does not 
+exist.
+At line:1 char:1
++ Get-Content "C:\Users\djtwo\.gemini\antigravity\scratch\whisper_trans ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\djtwo\..._transcript.txt:String) [Get-Content], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+

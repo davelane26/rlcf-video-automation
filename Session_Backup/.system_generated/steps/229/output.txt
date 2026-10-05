@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+XML Parse Error: not well-formed (invalid token): line 82, column 39
+

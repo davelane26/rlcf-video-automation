@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Updated XML: C:\Users\djtwo\Downloads\RLCF_Sunday_No_Singing.xml
+Validation OK!
+

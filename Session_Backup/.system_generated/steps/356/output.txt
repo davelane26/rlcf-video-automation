@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\Users\djtwo\OneDrive\RLCF-Video-Automation-Backup
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+dar--l         9/15/2026   8:43 PM                Antigravity_Skill                                                    
+dar--l         9/15/2026   8:43 PM                Resolve_Scripts                                                      
+-a----         9/15/2026   8:43 PM            923 Install_On_New_PC.bat                                                
+
+
+

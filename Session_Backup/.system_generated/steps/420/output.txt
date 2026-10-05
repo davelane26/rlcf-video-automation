@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+[STREAM]
+codec_name=h264
+codec_type=video
+[/STREAM]
+[STREAM]
+codec_name=aac
+codec_type=audio
+[/STREAM]
+[FORMAT]
+duration=4445.066000
+size=5629984706
+[/FORMAT]
+

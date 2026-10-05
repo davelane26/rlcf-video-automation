@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+davelane26
+davelane_26@yahoo.com
+

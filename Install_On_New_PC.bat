@@ -13,13 +13,18 @@ if not exist "%RESOLVE_DIR%" mkdir "%RESOLVE_DIR%"
 echo [2/3] Installing DaVinci Resolve Lua Scripts...
 copy /Y "%~dp0Resolve_Scripts\*.lua" "%RESOLVE_DIR%\"
 
-echo [3/3] Installing Antigravity Custom Skill...
+echo [3/4] Installing Antigravity Custom Skill...
 if not exist "%SKILL_DIR%" mkdir "%SKILL_DIR%"
 copy /Y "%~dp0Antigravity_Skill\SKILL.md" "%SKILL_DIR%\"
+
+echo [4/4] Restoring Antigravity Chat Session & Transcripts...
+set BRAIN_DIR=%USERPROFILE%\.gemini\antigravity\brain\56930dde-d49e-4d64-b3a0-ddf3ad4cb3e8
+if not exist "%BRAIN_DIR%" mkdir "%BRAIN_DIR%"
+xcopy /E /I /Y "%~dp0Session_Backup\*" "%BRAIN_DIR%\" >nul
 
 echo.
 echo ===================================================
 echo   RESTORE COMPLETE!
-echo   All scripts and skills are installed on this PC.
+echo   All scripts, skills, and session files are installed!
 echo ===================================================
 pause

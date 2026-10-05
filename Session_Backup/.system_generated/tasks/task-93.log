@@ -1,0 +1,10 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-15T18:42:11-06:00
+Prompt: Check transcription progress on GPU
+Early Termination: task-90
+
+[2026-09-15T18:41:36-06:00] Still waiting. Remaining time: 35s
+[2026-09-15T18:41:46-06:00] Still waiting. Remaining time: 25s
+[2026-09-15T18:41:56-06:00] Still waiting. Remaining time: 15s
+[2026-09-15T18:42:06-06:00] Still waiting. Remaining time: 5s
+[2026-09-15T18:42:11-06:00] Timer fired.

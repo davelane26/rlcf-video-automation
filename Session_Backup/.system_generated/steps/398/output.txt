@@ -1,0 +1,47 @@
+
+The command exited with code 0.
+Output:
+ffmpeg version 4.2.1 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.1.1 (GCC) 20190807
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\djtwo\Downloads\GMT20260917-001708_Recording_1920x1200.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: mp42isom
+    creation_time   : 2026-09-17T00:17:08.000000Z
+  Duration: 01:42:22.78, start: 0.000000, bitrate: 1184 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 73 kb/s (default)
+    Metadata:
+      creation_time   : 2026-09-17T00:17:08.000000Z
+      handler_name    : AAC audio
+    Stream #0:1(und): Video: h264 (Baseline) (avc1 / 0x31637661), yuv420p(tv, bt470bg/bt470bg/bt709), 1920x1200, 1107 kb/s, 25 fps, 25 tbr, 30k tbn, 60k tbc (default)
+    Metadata:
+      creation_time   : 2026-09-17T00:17:08.000000Z
+      handler_name    : H.264/AVC video
+      encoder         : AVC Coding
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'C:\Users\djtwo\.gemini\antigravity\scratch\gmt_audio.wav':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: mp42isom
+    ISFT            : Lavf58.29.100
+    Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s (default)
+    Metadata:
+      creation_time   : 2026-09-17T00:17:08.000000Z
+      handler_name    : AAC audio
+      encoder         : Lavc58.54.100 pcm_s16le
+size=   18750kB time=00:10:00.00 bitrate= 256.0kbits/s speed=1.39e+03x    
+video:0kB audio:18750kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000406%
+

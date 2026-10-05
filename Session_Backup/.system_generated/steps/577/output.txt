@@ -1,0 +1,2 @@
+Created file file:///C:/Users/djtwo/AppData/Roaming/Blackmagic%20Design/DaVinci%20Resolve/Support/Fusion/Scripts/Edit/Create_July19_Songs_Only.lua with requested content.
+If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.

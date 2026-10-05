@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+CommandType     Name                                               Version    Source                                   
+-----------     ----                                               -------    ------                                   
+Application     git.exe                                            2.53.0.3   C:\Program Files\Git\cmd\git.exe         
+True
+False
+
+
+

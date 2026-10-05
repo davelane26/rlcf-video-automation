@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+
+CommandType     Name                                               Version    Source                                   
+-----------     ----                                               -------    ------                                   
+Cmdlet          Resolve-DnsName                                    1.0.0.0    DnsClient                                
+Cmdlet          Resolve-Path                                       3.1.0.0    Microsoft.PowerShell.Management          
+
+LastWriteTime : 8/21/2024 6:16:06 PM
+Length        : 551973368
+Name          : Resolve.exe
+
+
+
+

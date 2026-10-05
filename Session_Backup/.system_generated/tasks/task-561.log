@@ -1,0 +1,200 @@
+. : File C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is 
+disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\djtwo\OneDrive\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+=== T1: Prayer End -> Song 1 (125s - 140s) ===
+   125.00s ->  125.30s:  to
+   125.30s ->  125.52s:  you
+   125.52s ->  125.68s:  for
+   125.68s ->  125.82s:  your
+   125.82s ->  126.14s:  glory
+   126.14s ->  126.62s:  alone.
+   126.88s ->  126.88s:  Help
+   126.88s ->  127.20s:  us
+   127.20s ->  127.46s:  Father,
+   127.56s ->  127.72s:  do
+   127.72s ->  128.48s:  this.
+   128.60s ->  128.68s:  We
+   128.68s ->  128.92s:  ask
+   128.92s ->  129.16s:  in
+   129.16s ->  129.48s:  Jesus'
+   130.34s ->  130.58s:  name.
+
+=== T2: Song 1 End -> Speaking 1 (318s - 330s) ===
+   319.26s ->  319.72s:  I
+   319.72s ->  319.90s:  love
+   319.90s ->  320.12s:  what
+   320.12s ->  320.28s:  David
+   320.28s ->  320.58s:  used
+   320.58s ->  320.82s:  to
+   320.82s ->  321.00s:  sing,
+   321.34s ->  321.40s:  and
+   321.40s ->  321.40s:  says
+   321.40s ->  321.76s:  David
+   321.76s ->  322.30s:  encouraged
+   322.30s ->  322.84s:  himself
+   322.84s ->  323.02s:  in
+   323.02s ->  323.18s:  the
+   323.18s ->  323.48s:  Lord.
+   324.28s ->  324.40s:  Even
+   324.40s ->  324.60s:  though
+   324.60s ->  324.78s:  those
+   324.78s ->  325.06s:  times
+   325.06s ->  325.26s:  of
+   325.26s ->  325.62s:  loneliness
+   325.62s ->  325.94s:  with
+   325.94s ->  326.08s:  his
+   326.08s ->  326.34s:  nobody
+   326.34s ->  326.60s:  else
+   326.60s ->  326.98s:  around
+   326.98s ->  327.14s:  you,
+   327.32s ->  327.36s:  he
+   327.36s ->  327.56s:  finds
+   327.56s ->  328.50s:  yourself
+   328.50s ->  328.82s:  alone
+   328.82s ->  329.26s:  physically.
+
+=== T3: Speaking 1 End -> Song 2 (370s - 385s) ===
+   371.18s ->  371.74s:  Wice
+   371.74s ->  371.98s:  it
+   371.98s ->  372.34s:  down,
+   372.62s ->  372.70s:  cast
+   372.70s ->  373.06s:  all
+   373.06s ->  373.44s:  my
+   373.44s ->  374.06s:  soul.
+   374.34s ->  374.40s:  Touch
+   374.40s ->  374.60s:  it
+   374.60s ->  375.30s:  open,
+   375.44s ->  376.08s:  go!
+   376.56s ->  376.82s:  And
+   376.82s ->  377.80s:  dance
+   377.80s ->  378.22s:  all
+   378.22s ->  378.68s:  over
+   378.68s ->  379.14s:  my
+   379.14s ->  379.48s:  soul.
+   379.48s ->  379.48s:  Let's
+   379.48s ->  379.72s:  go,
+   379.88s ->  380.02s:  let's
+   380.02s ->  380.24s:  see,
+   380.32s ->  380.70s:  can't
+   380.70s ->  380.78s:  voice
+   380.78s ->  380.96s:  it
+   380.96s ->  381.20s:  on
+   381.20s ->  381.30s:  the
+   381.30s ->  381.92s:  end.
+   382.08s ->  382.34s:  Wice
+   382.34s ->  382.62s:  it
+   382.62s ->  383.02s:  down,
+   383.02s ->  383.42s:  cast
+   383.42s ->  383.70s:  all
+   383.70s ->  384.08s:  my
+   384.08s ->  384.70s:  soul.
+
+=== T4: Song 2 End -> Speaking 2 (480s - 495s) ===
+   480.00s ->  480.44s:  And
+   480.44s ->  482.72s:  I'll
+   482.72s ->  482.72s:  confess
+   482.72s ->  483.34s:  the
+   483.34s ->  484.06s:  Lord
+   484.06s ->  484.54s:  of
+   484.54s ->  485.16s:  my
+   485.16s ->  487.00s:  soul.
+   491.00s ->  491.72s:  Not
+   491.72s ->  491.96s:  just
+   491.96s ->  492.18s:  on
+   492.18s ->  492.36s:  Sunday
+   492.36s ->  492.94s:  morning,
+   493.60s ->  493.72s:  but
+   493.72s ->  493.94s:  throughout
+   493.94s ->  494.20s:  this
+   494.20s ->  494.48s:  week,
+   494.60s ->  494.68s:  dear
+   494.68s ->  494.90s:  brother.
+
+=== T5: Speaking 2 End -> Song 3 (1240s - 1255s) ===
+  1240.00s -> 1240.34s:  my
+  1240.34s -> 1241.08s:  cup
+  1241.08s -> 1241.38s:  I
+  1241.38s -> 1241.48s:  lift
+  1241.48s -> 1241.62s:  it
+  1241.62s -> 1241.84s:  up
+  1241.84s -> 1242.16s:  to
+  1242.16s -> 1242.40s:  you
+  1242.40s -> 1242.64s:  he
+  1242.64s -> 1244.00s:  will
+  1244.00s -> 1244.42s:  go
+  1244.42s -> 1244.64s:  miss
+  1244.64s -> 1244.78s:  me
+  1244.78s -> 1245.00s:  out
+  1245.00s -> 1245.20s:  pouring
+  1245.20s -> 1245.38s:  in
+  1245.38s -> 1245.60s:  the
+  1245.60s -> 1245.80s:  spirit
+  1245.80s -> 1246.00s:  that
+  1246.00s -> 1246.16s:  he
+  1246.16s -> 1246.38s:  wants
+  1246.38s -> 1246.62s:  to
+  1246.62s -> 1246.80s:  give
+  1246.80s -> 1247.60s:  to
+  1247.60s -> 1248.46s:  you
+
+=== T6: Song 3 End -> Speaking 3 (1490s - 1505s) ===
+  1490.00s -> 1490.74s:  A
+  1490.74s -> 1491.54s:  quick
+  1491.54s -> 1492.50s:  fight
+  1492.50s -> 1493.00s:  that
+  1493.00s -> 1493.64s:  sent
+  1493.64s -> 1496.16s:  me
+  1496.16s -> 1497.22s:  A
+  1497.22s -> 1497.92s:  june
+  1497.92s -> 1498.72s:  by
+  1498.72s -> 1500.60s:  fire
+  1500.60s -> 1501.48s:  From
+  1501.48s -> 1502.22s:  out
+  1502.22s -> 1503.02s:  thy
+  1503.02s -> 1504.10s:  power
+  1504.10s -> 1504.60s:  we
+  1504.60s -> 1504.98s:  come
+
+=== T7: Speaking 3 End -> Song 4 (1600s - 1615s) ===
+  1600.00s -> 1600.14s:  I
+  1600.14s -> 1600.26s:  think
+  1600.26s -> 1600.46s:  we
+  1600.46s -> 1601.04s:  need.
+  1606.52s -> 1607.68s:  My
+  1607.68s -> 1608.20s:  heart
+  1608.20s -> 1608.94s:  is
+  1608.94s -> 1609.54s:  that
+  1609.54s -> 1610.32s:  God
+  1610.32s -> 1610.80s:  has
+  1610.80s -> 1611.54s:  no
+  1611.54s -> 1612.10s:  root.
+  1612.62s -> 1612.92s:  I
+  1612.92s -> 1613.50s:  was
+  1613.50s -> 1614.40s:  pain
+  1614.40s -> 1614.98s:  too.
+
+=== T8: Song 4 End -> Song 5 (1830s - 1845s) ===
+  1830.00s -> 1830.30s:  Is
+  1830.30s -> 1830.86s:  this
+  1830.86s -> 1832.10s:  mine
+  1832.10s -> 1832.96s:  for
+  1832.96s -> 1835.00s:  ever?
+  1840.20s -> 1841.44s:  Sweetly,
+  1841.50s -> 1842.12s:  Lord,
+  1842.44s -> 1842.62s:  I'll
+  1842.62s -> 1843.00s:  be
+  1843.00s -> 1843.64s:  heard
+  1843.64s -> 1844.52s:  the
+  1844.52s -> 1844.98s:  call.
+
+=== T9: Song 5 End (2115s - 2125s) ===
+  2116.44s -> 2117.00s:  I'll
+  2117.00s -> 2117.20s:  bet,
+  2117.42s -> 2117.46s:  please
+  2117.46s -> 2117.80s:  please.

@@ -1,0 +1,19 @@
+
+The command exited with code 1.
+Output:
+Traceback (most recent call last):
+  File "C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\Developer\Scripting\Modules\DaVinciResolveScript.py", line 25, in <module>
+    import fusionscript as script_module
+ModuleNotFoundError: No module named 'fusionscript'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+    import DaVinciResolveScript as dvr
+  File "C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\Developer\Scripting\Modules\DaVinciResolveScript.py", line 31, in <module>
+    script_module = load_dynamic("fusionscript", lib_path)
+  File "C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\Developer\Scripting\Modules\DaVinciResolveScript.py", line 15, in load_dynamic
+    module = importlib.util.module_from_spec(spec)
+SystemError: initialization of fusionscript failed without raising an exception
+
