@@ -22,7 +22,9 @@ If you switch to a new computer or reinstall Windows:
 ---
 
 ## Included Scripts
-- `Resolve_Scripts/Section_Each_Song_Timeline.lua`: Creates timeline sectioned into each individual song with markers and color tags.
-- `Resolve_Scripts/Create_Singing_Timeline.lua`: Creates a single continuous timeline of the full singing session (`00:06:18` to `00:36:13`).
+- `Resolve_Scripts/Section_July19_Praise_Songs.lua`: Sections July 19 Praise Live into 5 individual songs and speaking segments with markers and colors.
+- `Resolve_Scripts/Create_July19_Songs_Only.lua`: Creates a songs-only timeline of July 19 (removes speaking/prayers).
+- `Resolve_Scripts/Section_Each_Song_Timeline.lua`: Creates timeline sectioned into each individual song for September 13 with markers and color tags.
+- `Resolve_Scripts/Create_Singing_Timeline.lua`: Creates a single continuous timeline of the full singing session.
 - `Resolve_Scripts/Create_No_Singing_Timeline.lua`: Cuts out singing and keeps only the sermon and spoken portions.
 - `Antigravity_Skill/SKILL.md`: The AI workflow memory and rules for Antigravity.
