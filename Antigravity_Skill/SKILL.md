@@ -61,8 +61,9 @@ Provide both:
 - Option A: Songs Only (e.g. `00:00 Song 1...`)
 - Option B: Full Detail (Songs + Spoken Sharings)
 
-### Step D: Automatic Standalone "Songs Only" Video Rendering
-Always generate the ready-to-upload standalone continuous worship video directly in the user's Downloads folder:
+### Step D: Automatic Standalone Praise / Worship Video Rendering
+Always generate the ready-to-upload complete praise & worship video directly in the user's Downloads folder:
 - **File Name Pattern:** `C:\Users\djtwo\Downloads\<Date> Praise - Songs Only.mp4`
-- **Method:** Use FFmpeg with sample-accurate filter_complex trim+concat (`libx264`, `-preset veryfast`, `-crf 20`, `-c:a aac -b:a 192k`, `-movflags +faststart`).
-- **Result:** Provides an immediate 1080p Full HD video of all worship songs stitched back-to-back without requiring manual export from DaVinci Resolve.
+- **Scope:** The entire worship session from start to finish, including all songs, speaking, scripture sharings, and prayers (from the opening greeting/prayer through the final song's decay). Trims out only the pre-stream prelude screen at the beginning and the pulpit sermon/announcements at the end.
+- **Method:** Use FFmpeg (`libx264`, `-preset veryfast`, `-crf 18`, `-c:a aac -b:a 192k`, `-movflags +faststart`).
+- **Result:** Provides an immediate 1080p Full HD video ready for YouTube upload without requiring manual export from DaVinci Resolve.
