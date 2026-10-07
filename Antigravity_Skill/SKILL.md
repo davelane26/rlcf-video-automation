@@ -60,3 +60,9 @@ Whenever generating a timeline for YouTube, calculate relative timestamps starti
 Provide both:
 - Option A: Songs Only (e.g. `00:00 Song 1...`)
 - Option B: Full Detail (Songs + Spoken Sharings)
+
+### Step D: Automatic Standalone "Songs Only" Video Rendering
+Always generate the ready-to-upload standalone continuous worship video directly in the user's Downloads folder:
+- **File Name Pattern:** `C:\Users\djtwo\Downloads\<Date> Praise - Songs Only.mp4`
+- **Method:** Use FFmpeg with sample-accurate filter_complex trim+concat (`libx264`, `-preset veryfast`, `-crf 20`, `-c:a aac -b:a 192k`, `-movflags +faststart`).
+- **Result:** Provides an immediate 1080p Full HD video of all worship songs stitched back-to-back without requiring manual export from DaVinci Resolve.
