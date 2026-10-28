@@ -1,30 +1,24 @@
-# RLCF Sunday Livestream Video Automation
+# RLCF Sunday Meeting Automation Suite
 
-Automated video analysis, timeline generation, and YouTube chapter creation for River of Life Christian Fellowship (RLCF) Sunday livestream recordings in **DaVinci Resolve**.
-
----
-
-## Features
-- **Singing & Worship Detection**: Automatically identifies the worship portion of the meeting, cuts out pre-service holding screens and sermons, and preserves all songs and interstitial prayers.
-- **Section by Song**: Slices the worship block into individual clips for each song and speaking segment.
-- **Color-Coded & Marked**: Color-codes song clips in **Teal** and speaking in **Orange**, and drops **Cyan** markers with the official hymn names.
-- **YouTube Chapters**: Generates clickable YouTube video description chapter timestamps.
-- **1-Click DaVinci Resolve Integration**: Native Lua scripts placed directly in Resolve's `Workspace -> Scripts -> Edit` menu.
+Automated tools for River of Life Christian Fellowship (RLCF) Sunday meetings:
+1. **Sunday Worship Playlist Sync**: Matches songs against the 575+ livestream recording catalog, clears old songs, and updates YouTube playlists via official Google APIs.
+2. **DaVinci Resolve Video Editing**: Automatic audio transcription, singing/worship detection, timeline generation, and YouTube chapters.
 
 ---
 
-## 1-Click Restore on a New PC
-If you switch to a new computer or reinstall Windows:
-1. Clone this repository (or download the ZIP).
-2. Double-click `Install_On_New_PC.bat`.
-3. Open DaVinci Resolve and your scripts will be ready under `Workspace -> Scripts -> Edit`!
+## 1-Click Restore on Any PC
+If you get a new computer, laptop, or reinstall Windows:
+1. Make sure OneDrive is synced.
+2. Double-click **`Install_On_New_PC.bat`**.
+3. **Done!**
+   - Your YouTube credentials and 575-song catalog are restored.
+   - Antigravity's **`sunday-playlist-sync`** and **`rlcf-video-editing`** skills are instantly enabled.
+   - All DaVinci Resolve scripts are placed into Resolve's script menu.
 
 ---
 
-## Included Scripts
-- `Resolve_Scripts/Section_July19_Praise_Songs.lua`: Sections July 19 Praise Live into 5 individual songs and speaking segments with markers and colors.
-- `Resolve_Scripts/Create_July19_Songs_Only.lua`: Creates a songs-only timeline of July 19 (removes speaking/prayers).
-- `Resolve_Scripts/Section_Each_Song_Timeline.lua`: Creates timeline sectioned into each individual song for September 13 with markers and color tags.
-- `Resolve_Scripts/Create_Singing_Timeline.lua`: Creates a single continuous timeline of the full singing session.
-- `Resolve_Scripts/Create_No_Singing_Timeline.lua`: Cuts out singing and keeps only the sermon and spoken portions.
-- `Antigravity_Skill/SKILL.md`: The AI workflow memory and rules for Antigravity.
+## What's Backed Up Here:
+- `Playlist_Sync/`: YouTube OAuth token (`token.json`), client secrets, master song catalog, and sync engine.
+- `Antigravity_Skill_Playlist/`: Antigravity skill definition for Sunday playlist synchronization.
+- `Antigravity_Skill/`: Antigravity skill definition for livestream video editing.
+- `Resolve_Scripts/`: DaVinci Resolve Lua scripts for sectioning praise songs and timelines.
