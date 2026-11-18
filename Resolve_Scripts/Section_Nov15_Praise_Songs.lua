@@ -1,7 +1,8 @@
 -- DaVinci Resolve Script: Section_Nov15_Praise_Songs.lua
 -- Complete Automated Timeline Assembly for RLCF Praise (November 15, 2026)
 -- 1. Video Track 1: RLCF_Intro4k.mp4 -> 12 Worship Sections (7 songs + sharings/prayers) -> RLCF_Outro4k.mp4
--- 2. Video Track 2: RLCF Logo Watermark overlay positioned at Zoom 0.250, Position (1450, 470) across the entire praise set
+-- 2. Video Track 2: RLCF Logo Watermark overlay (RLCFLogo_VIdeos_Overlay.mov) stretched across the entire main praise video
+--    with Zoom 0.250 and Position (1450, 470)
 -- 3. Cyan markers on all 7 songs, Blue markers on Intro/Outro, Teal clip color for songs, Orange for speaking
 
 local projectManager = resolve:GetProjectManager()
@@ -17,9 +18,9 @@ local rootFolder = mediaPool:GetRootFolder()
 -- Helper function for substring match (used for the main praise recording)
 local function findClipInFolder(folder, matchPatterns)
     local clips = folder:GetClipList()
-    for _, clip in ipairs(clips) do
-        local name = clip:GetName()
-        for _, pat in ipairs(matchPatterns) do
+    for _, pat in ipairs(matchPatterns) do
+        for _, clip in ipairs(clips) do
+            local name = clip:GetName()
             if string.find(string.lower(name), string.lower(pat)) then
                 return clip
             end
@@ -35,12 +36,12 @@ local function findClipInFolder(folder, matchPatterns)
     return nil
 end
 
--- Helper function for EXACT filename match (prevents matching _with_CR when RLCF_Intro4k.mp4 is requested)
+-- Helper function for EXACT filename match (respects target priority order)
 local function findExactClipInFolder(folder, exactNames)
     local clips = folder:GetClipList()
-    for _, clip in ipairs(clips) do
-        local name = string.lower(clip:GetName())
-        for _, target in ipairs(exactNames) do
+    for _, target in ipairs(exactNames) do
+        for _, clip in ipairs(clips) do
+            local name = string.lower(clip:GetName())
             if name == string.lower(target) then
                 return clip
             end
@@ -87,16 +88,13 @@ if not outroClip then
     outroClip = findExactClipInFolder(rootFolder, {"RLCF_Outro4k.mp4", "RLCF_Outro4k"})
 end
 
--- Use the lossless full-length transparent MOV of RLCFLogo_VIdeos.png so Resolve spans the entire 30m41s worship set on V2
+-- Always use RLCFLogo_VIdeos_Overlay.mov (33.5-min lossless transparent MOV) so Resolve stretches it across the entire 30m41.5s main video
 local logoClip = findExactClipInFolder(rootFolder, {"RLCFLogo_VIdeos_Overlay.mov", "RLCFLogo_VIdeos_Overlay"})
 if not logoClip then
     pcall(function()
-        mediaPool:ImportMedia({
-            "C:\\Users\\djtwo\\OneDrive\\Desktop\\Intro Outro Logo\\RLCFLogo_VIdeos_Overlay.mov",
-            "C:\\Users\\djtwo\\OneDrive\\Desktop\\Intro Outro Logo\\RLCFLogo_VIdeos.png"
-        })
+        mediaPool:ImportMedia({"C:\\Users\\djtwo\\OneDrive\\Desktop\\Intro Outro Logo\\RLCFLogo_VIdeos_Overlay.mov"})
     end)
-    logoClip = findExactClipInFolder(rootFolder, {"RLCFLogo_VIdeos_Overlay.mov", "RLCFLogo_VIdeos_Overlay", "RLCFLogo_VIdeos.png", "RLCFLogo_VIdeos"})
+    logoClip = findExactClipInFolder(rootFolder, {"RLCFLogo_VIdeos_Overlay.mov", "RLCFLogo_VIdeos_Overlay"})
 end
 
 -- 3. Calculate Framerate and Base Timecode of Target Worship Clip
@@ -224,18 +222,18 @@ if outroClip and timelineItems then
     end
 end
 
--- 9. Setup Video Track 2 (V2) & Position Logo Overlay Across Entire Praise Section
+-- 9. Setup Video Track 2 (V2) & Stretch Logo Overlay Across Entire Main Praise Video
 if logoClip and timelineItems then
     local vTrackCount = timeline:GetTrackCount("video")
     if vTrackCount < 2 then
         timeline:AddTrack("video")
     end
 
-    -- Exact timeline frame where the praise section begins (immediately after RLCF_Intro4k.mp4)
+    -- Exact timeline frame where the main praise video begins (immediately after RLCF_Intro4k.mp4)
     local firstPraiseItem = timelineItems[sectionStartIndex]
     local praiseRecordFrame = firstPraiseItem and firstPraiseItem:GetStart() or timelineStartFrame
 
-    -- Source frames at 30fps for the 30m 41.5s praise section
+    -- Source frames at 30fps for the entire 30m 41.5s main praise video (55,245 frames)
     local logoSourceFrames = math.floor(totalPraiseSeconds * 30.0 + 0.5)
 
     local logoClipInfo = {
@@ -264,7 +262,7 @@ if logoClip and timelineItems then
             pcall(function() item:SetProperty("Yaw", 0.0) end)
         end
     end
-    print("SUCCESS: Logo overlay placed on Video Track 2 at frame " .. tostring(praiseRecordFrame) .. " (Zoom: 0.250, Position: 1450, 470)!")
+    print("SUCCESS: Stretched Logo overlay across the entire main video on Video Track 2 (Zoom: 0.250, Position: 1450, 470)!")
 end
 
-print("SUCCESS: Created full timeline '" .. timelineName .. "' with RLCF_Intro4k, RLCF_Outro4k, 7 Songs, and Watermark Logo!")
+print("SUCCESS: Created full timeline '" .. timelineName .. "' with RLCF_Intro4k, RLCF_Outro4k, 7 Songs, and full-length Watermark Logo!")
